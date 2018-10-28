@@ -1,0 +1,10 @@
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\File Name Fixer\File Name Fixer\bin\Debug\File Name Fixer.exe.config
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\File Name Fixer\File Name Fixer\bin\Debug\File Name Fixer.exe
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\File Name Fixer\File Name Fixer\bin\Debug\File Name Fixer.pdb
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\File Name Fixer\File Name Fixer\obj\Debug\File Name Fixer.csprojAssemblyReference.cache
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\File Name Fixer\File Name Fixer\obj\Debug\File_Name_Fixer.Form1.resources
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\File Name Fixer\File Name Fixer\obj\Debug\File_Name_Fixer.Properties.Resources.resources
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\File Name Fixer\File Name Fixer\obj\Debug\File Name Fixer.csproj.GenerateResource.cache
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\File Name Fixer\File Name Fixer\obj\Debug\File Name Fixer.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\File Name Fixer\File Name Fixer\obj\Debug\File Name Fixer.exe
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\File Name Fixer\File Name Fixer\obj\Debug\File Name Fixer.pdb
